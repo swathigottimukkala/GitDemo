@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56" started-at="2021-07-17T14:52:47 IST" finished-at="2021-07-17T14:52:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56" started-at="2021-07-17T14:52:47 IST" finished-at="2021-07-17T14:52:47 IST">
+      <class name="qaclickacademy.ResAssuredTest">
+        <test-method status="PASS" signature="RestAssuredCode()[pri:0, instance:qaclickacademy.ResAssuredTest@63440df3]" name="RestAssuredCode" duration-ms="6" started-at="2021-07-17T14:52:47 IST" finished-at="2021-07-17T14:52:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssuredCode -->
+      </class> <!-- qaclickacademy.ResAssuredTest -->
+      <class name="qaclickacademy.AppiumCodeTest">
+        <test-method status="PASS" signature="AppiumCode()[pri:0, instance:qaclickacademy.AppiumCodeTest@1b26f7b2]" name="AppiumCode" duration-ms="0" started-at="2021-07-17T14:52:47 IST" finished-at="2021-07-17T14:52:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumCode -->
+      </class> <!-- qaclickacademy.AppiumCodeTest -->
+      <class name="qaclickacademy.SeleniumAppTest">
+        <test-method status="PASS" signature="SeleniumTest()[pri:0, instance:qaclickacademy.SeleniumAppTest@491cc5c9]" name="SeleniumTest" duration-ms="0" started-at="2021-07-17T14:52:47 IST" finished-at="2021-07-17T14:52:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest -->
+      </class> <!-- qaclickacademy.SeleniumAppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
