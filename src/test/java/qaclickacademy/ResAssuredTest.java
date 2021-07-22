@@ -7,6 +7,8 @@ public class ResAssuredTest {
 		@Test
 		public void RestAssuredCode() {
 			System.out.println("RestAssuredCode");
+			System.out.println("PostJira1");
+			System.out.println("PostJira2	");
 		}
 
 	}
