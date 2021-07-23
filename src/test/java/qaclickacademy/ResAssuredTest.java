@@ -9,6 +9,7 @@ public class ResAssuredTest {
 			System.out.println("RestAssuredCode");
 			System.out.println("PostJira1");
 			System.out.println("PostJira2	");
+			System.out.println("PostJira3	");
 		}
 
 	}
